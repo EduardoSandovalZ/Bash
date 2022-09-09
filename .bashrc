@@ -129,7 +129,9 @@ fi
 alias rbt='reboot'
 alias please='sudo'
 alias fucking='sudo apt'
+alias samba='sudo service smbd'
 alias bye='poweroff'
+alias ports='dmesg | grep tty'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
